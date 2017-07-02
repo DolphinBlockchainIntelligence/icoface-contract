@@ -9,7 +9,7 @@ While most of the team is part of Dolphin BI project, we've met new people on th
 We use a smart-contract on Qtum blockchain for secure and immutable storage and intellegent image recognition and text analysis algorithms to allow you to quickly find the information you need.
 
 <h2>Technology</h2>
-We used Qtum Platform for data storage; nltk, phonetic matching and regex for text analysis, neural network based face recognition; node.js, express.js and MySQL for backend; vue.js and vuekit for frontend.
+We used Qtum Platform for data storage; nltk, phonetic matching and regex for text analysis, neural network based face recognition; node.js, express.js and MySQL for backend; vue.js and uikit for frontend.
 
 <h2>The biggest obstacle</h2>
 The biggest difficulty was to integrate the pieces together and automate saving data on the Qtum blockchain.
